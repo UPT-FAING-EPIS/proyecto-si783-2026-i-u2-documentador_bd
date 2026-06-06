@@ -1,6 +1,8 @@
-<center>
+<div align="center">
 
-![./media/logo-upt.png](./media/logo-upt.png)
+![Logo UPT](./media/logo-upt.png)
+
+<br>
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 
@@ -24,7 +26,7 @@ Integrantes:
 
 ***2026***
 
-</center>
+</div>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
