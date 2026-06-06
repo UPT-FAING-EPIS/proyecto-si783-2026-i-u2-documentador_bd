@@ -1,7 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EukCIKzm)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=24087321)
-# proyecto-formatos-01
-
 
 
 # Documentador de Base de Datos
@@ -42,17 +40,6 @@ El sistema está diseñado para:
 - Soporte para análisis de estructuras SQL y NoSQL desde el servidor.
 - Capacidad de generar diagramas y convertir esquemas a distintos formatos.
 
-## Roles y permisos
-
-El sistema define al menos dos roles principales:
-- `admin`
-- `usuario`
-
-Además, el perfil de usuario incluye un estado que puede ser:
-- `activo`
-- `suspendido`
-
-Un usuario con estado `suspendido` tiene acceso restringido y recibe un error 403 en las rutas protegidas.
 
 ## Cómo funciona el sistema
 
@@ -68,7 +55,6 @@ Un usuario con estado `suspendido` tiene acceso restringido y recibe un error 40
 
 - Node.js 16 o superior
 - Express.js
-- Supabase JavaScript SDK
 - Multer para carga de archivos
 - OpenAI SDK (opcional)
 - XLSX para procesamiento de archivos Excel
